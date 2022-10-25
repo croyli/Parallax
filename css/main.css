@@ -88,8 +88,8 @@ body {
 }
 
 .layers__title {
-  font-size: calc(var(--index) * 2.5);
-  letter-spacing: calc(var(--index) * 1.2);
+  font-size: calc(var(--index) * 2);
+  letter-spacing: calc(var(--index) * 0.6);
 }
 
 .layers__caption {
